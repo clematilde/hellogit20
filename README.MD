@@ -3,3 +3,4 @@ Some text
 New text
 
 Test branches
+2
